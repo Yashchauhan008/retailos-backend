@@ -1,0 +1,12 @@
+node_modules
+dist
+logs
+tmp
+files
+.DS_Store
+.git
+*.log
+.env
+.env.prod
+commands
+bruno
